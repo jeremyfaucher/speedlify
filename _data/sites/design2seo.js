@@ -13,6 +13,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.design2seo.com/"
+		"https://design2seo.com/"
 	]
 };
