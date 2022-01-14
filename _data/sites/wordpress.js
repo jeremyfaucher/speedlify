@@ -1,6 +1,6 @@
 module.exports = {
-	name: "design2seo.com", // optional, falls back to object key
-	description: "Jeremy's personal web site",
+	name: "wordpress", // optional, falls back to object key
+	description: "WordPress Sites",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	skip: false,
@@ -13,6 +13,7 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://design2seo.com/"
+		"https://visualwebz.com/",
+		"https://carkeekstudios.com/",
 	]
 };
