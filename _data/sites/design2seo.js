@@ -5,7 +5,7 @@ module.exports = {
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	skip: false,
 	options: {
-		frequency: 60 * 23, // 23 hours
+		frequency: 1, // 23 hours
 		// Use "run" if the sites don’t share assets on the same origin
 		//           and we can reset chrome with each run instead of
 		//           each site in every run (it’s faster)
@@ -13,6 +13,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.design2seo.com/"
+		"https://design2seo.com/"
 	]
 };
