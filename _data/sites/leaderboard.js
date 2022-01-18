@@ -7,5 +7,6 @@ module.exports = {
 	urls: [
 		"https://design2seo.com/",
 		"https://carkeekstudios.com/",
+		"https://ashleystevensdesign.com/"
 	]
 };
